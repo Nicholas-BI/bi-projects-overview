@@ -16,7 +16,7 @@ Multi-page report built on anonymized ERP data. Tracks profitability, labor, scr
 **Interactive Scoring Model with Exponent Weighting and Normalization**  
 One-page strategy engine for a mobile game. Lets users rank recipes using sliders, nonlinear scoring, and ratio-based DAX. A creative take on decision modeling and multi-metric optimization.
 
-[View Repository](https://github.com/Nicholas-BI/bakery-efficiency-score)
+[View Repository](https://github.com/Nicholas-BI/bakery-efficiency-score/tree/main)
 
 ---
 
