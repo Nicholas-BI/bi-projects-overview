@@ -1,6 +1,8 @@
 # Power BI Portfolio – Nicholas
 
-I'm a certified Lean Practitioner and Six Sigma Green Belt with 13+ years in manufacturing. I build fast, clean Power BI solutions that turn raw data into decision-ready dashboards. Below are selected projects that show how I combine domain knowledge with technical depth—whether optimizing a shop floor or ranking recipes in a mobile game.
+With 13+ years in manufacturing and certifications in Lean and Six Sigma (Green Belt), I bring both a wide-angle view of operations and a sharp eye for process improvement. That background gives me more than just data—it gives me context. I know what metrics matter, how processes break, and where analytics can actually move the needle. The result: Power BI solutions that aren’t just clean and fast—they’re grounded, practical, and built for action.
+
+Below are selected projects that show how I combine domain knowledge with technical depth—whether optimizing a shop floor or ranking recipes in a mobile game.
 
 ---
 
