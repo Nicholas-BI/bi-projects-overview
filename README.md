@@ -1,4 +1,4 @@
-# Nicholas B. – Power BI Portfolio
+# Nicholas. – Power BI Portfolio
 
 Welcome to my Power BI portfolio. I’m a manufacturing analyst and report designer with over 13 years of real-world production experience—and a drive to turn raw data into meaningful action.
 
