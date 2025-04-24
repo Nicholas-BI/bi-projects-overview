@@ -1,6 +1,6 @@
 # Power BI Portfolio – Nicholas
 
-With 13+ years in manufacturing and certifications in Lean, Six Sigma, PL-300, and DP-900, I bring a strong foundation in both process improvement and modern data tools. I don’t just build dashboards—I know what to measure, why it matters, and how to drive real improvement.
+With 13+ years in manufacturing and certifications in Lean, Six Sigma, Power BI Data Analyst (PL-300), and Azure Data Fundamentals (DP-900), I bring a strong foundation in both process improvement and modern data tools. I don’t just build dashboards—I know what to measure, why it matters, and how to drive real improvement.
 
 This page serves as a portfolio overview. A few reports are currently private to keep the portfolio focused, but access is available upon request.
 
