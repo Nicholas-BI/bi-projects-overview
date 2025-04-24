@@ -8,7 +8,7 @@ I'm a certified Lean Practitioner and Six Sigma Green Belt with 13+ years in man
 **Manufacturing KPIs, Dual Fact Tables, Departmental Drilldowns**  
 Multi-page report built on anonymized ERP data. Tracks profitability, labor, scrap, and throughput with modular DAX and clean dimensional modeling. Designed for real-world decision makers.
 
-[View Repository](https://github.com/Nicholas-BI/job-performance-report)
+[View Repository](https://github.com/Nicholas-BI/powerbi-job-performance)
 
 ---
 
@@ -24,7 +24,7 @@ One-page strategy engine for a mobile game. Lets users rank recipes using slider
 **Toggle-Based Time Comparison with MTD/QTD/YTD Filtering**  
 Single-page report comparing sales and gross profit to the same period last year. Dynamic toggles, clean variance visuals, and slicer-driven logic keep it clear and compact.
 
-[View Repository](https://github.com/Nicholas-BI/actual-vs-last-year)
+[View Repository](https://github.com/Nicholas-BI/sales-vs-last-year)
 
 ---
 
