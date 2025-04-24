@@ -1,8 +1,6 @@
 # Power BI Portfolio – Nicholas
 
-With 13+ years in manufacturing and certifications in Lean and Six Sigma (Green Belt), I pair process insight with data fluency. I don’t just build dashboards—I know what to measure, why it matters, and how to drive improvement. My reports are fast, focused, and grounded in real operational context.
-
-Below are selected projects that show how I combine domain knowledge with technical depth—whether optimizing a shop floor or ranking recipes in a mobile game.
+With 13+ years in manufacturing and certifications in Lean, Six Sigma (Green Belt), PL-300, and DP-900, I bring a strong foundation in both process improvement and modern data tools. I don’t just build dashboards—I know what to measure, why it matters, and how to drive real improvement.
 
 ---
 
