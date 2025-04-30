@@ -1,41 +1,52 @@
-# Power BI Portfolio – Nicholas
+# Nicholas’s Power BI Portfolio  
+**Driving measurable improvements by combining 13 years of manufacturing expertise with modern analytics**
 
-With 13+ years in manufacturing and certifications in Lean, Six Sigma, Power BI Data Analyst (PL-300), and Azure Data Fundamentals (DP-900), I bring a strong foundation in both process improvement and modern data tools. I don’t just build dashboards—I know what to measure, why it matters, and how to drive real improvement.
+As a Six Sigma Green Belt and certified PL-300 (Power BI Data Analyst) and DP-900 (Azure Data Fundamentals) practitioner, I build more than dashboards—I translate data into actionable insights that reduce waste, optimize throughput, and drive real improvement.
 
-This page serves as a portfolio overview. A few reports are currently private to keep the portfolio focused, but access is available upon request.
+**Note:** Projects labeled **Private – Demo on Request** are available upon request.
 
 ---
 
-## Job Performance Report *(Temporarily Private)*
-**Manufacturing KPIs, Dual Fact Tables, Departmental Drilldowns**  
-Multi-page Power BI report built on anonymized ERP data. Tracks profitability, labor, scrap, and throughput using modular DAX and a clean dimensional model—designed for real-world decision makers.
+## Job Performance Report  
+**Status:** Private – Demo on Request  
+**Key Features:**  
+- Multi-page report on anonymized ERP data, tracking profitability, labor efficiency, scrap, and throughput  
+- Dual fact tables with a clean dimensional model for departmental drilldowns  
+- Modular DAX measures designed for reuse across scenarios  
 
-[Repository currently private](https://github.com/Nicholas-BI/powerbi-job-performance)
+[Repository (Private)](https://github.com/Nicholas-BI/powerbi-job-performance)
 
 ---
 
 ## Bakery Story Efficiency Score  
-**Interactive Scoring Model with Exponent Weighting and Normalization**  
-One-page strategy engine for a mobile game. Lets users rank recipes using sliders, nonlinear scoring, and ratio-based DAX. A creative take on decision modeling and multi-metric optimization.
+**Status:** Public  
+**Key Features:**  
+- Interactive scoring model for a mobile game, enabling users to rank recipes via sliders  
+- Nonlinear exponent weighting and ratio-based normalization in DAX  
+- Strategy-focused layout with presets and dynamic ranking  
 
 [View Repository](https://github.com/Nicholas-BI/bakery-efficiency-score)
 
 ---
 
-## Actual vs Last Year *(Temporarily Private)*
-**Toggle-Based Time Comparison with MTD/QTD/YTD Filtering**  
-Single-page report comparing sales and gross profit to the same period last year. Dynamic toggles, clean variance visuals, and slicer-driven logic keep it clear and compact.
+## Actual vs Last Year  
+**Status:** Private – Demo on Request  
+**Key Features:**  
+- Single-page comparison of sales and gross profit versus the same period last year  
+- Toggle-based filters (MTD/QTD/YTD) with slicer-driven logic  
+- Compact variance visuals to highlight key trends  
 
-[Repository currently private](https://github.com/Nicholas-BI/sales-vs-last-year)
+[Repository (Private)](https://github.com/Nicholas-BI/sales-vs-last-year)
+
+---
+
+## Tools and Techniques  
+**Analytics:** DAX, Power Query (M), SQL via Epicor BAQs  
+**Platform:** Power BI Desktop, GitHub  
+**Methodology:** Lean, Six Sigma, Modular modeling  
 
 ---
 
-## Tools and Techniques
-
-- Power BI Desktop  
-- DAX and Power Query (M)  
-- SQL via Epicor BAQs  
-- Modular modeling and reusable measures  
-- GitHub for version control and documentation
-
----
+## Contact  
+Interested in a demo or discussing how I can drive insights for your team?  
+Email: your.email@example.com
