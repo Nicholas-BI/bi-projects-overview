@@ -42,7 +42,7 @@ As a Six Sigma Green Belt and certified PL-300 (Power BI Data Analyst) and DP-90
 
 ## Tools and Techniques  
 **Analytics:** DAX, Power Query (M), SQL via Epicor BAQs  
-**Platform:** Power BI Desktop, GitHub  
+**Platform:** Power BI Desktop, GitHub, Epicor ERP  
 **Methodology:** Lean, Six Sigma, Modular modeling  
 
 ---
