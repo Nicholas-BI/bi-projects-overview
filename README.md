@@ -1,7 +1,7 @@
 # Nicholas’s Power BI Portfolio  
 **Driving measurable improvements by combining 13 years of manufacturing expertise with modern analytics**
 
-As a Six Sigma Green Belt and certified PL-300 (Power BI Data Analyst) and DP-900 (Azure Data Fundamentals) practitioner, I build more than dashboards—I translate data into actionable insights that reduce waste, optimize throughput, and drive real improvement.
+As a Lean-certified professional and Six Sigma Green Belt with PL-300 and DP-900 credentials, I don’t just build dashboards—I know what to measure, why it matters, and how to drive real improvement.
 
 **Note:** Projects labeled **Private – Demo on Request** are available upon request.
 
@@ -42,7 +42,7 @@ As a Six Sigma Green Belt and certified PL-300 (Power BI Data Analyst) and DP-90
 
 ## Tools and Techniques  
 **Analytics:** DAX, Power Query (M), SQL via Epicor BAQs  
-**Platform:** Power BI Desktop, GitHub, Epicor ERP  
+**Platform:** Power BI Desktop, GitHub  
 **Methodology:** Lean, Six Sigma, Modular modeling  
 
 ---
