@@ -10,7 +10,7 @@ As a Lean-certified professional and Six Sigma Green Belt with PL-300 and DP-900
 ## Job Performance Report  
 **Status:** Private – Demo on Request  
 **Key Features:**  
-- Multi-page report on anonymized ERP data, tracking profitability, labor efficiency, scrap, and throughput  
+- Multi-page report, built from SQL-extracted, anonymized ERP data, tracking profitability, labor efficiency, scrap, and throughput  
 - Dual fact tables with a clean dimensional model for departmental drilldowns  
 - Modular DAX measures designed for reuse across scenarios  
 
