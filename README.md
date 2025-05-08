@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PL--300-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/DP--900-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lean%20Practitioner-Certified-00A86B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Six%20Sigma-Certified-0072C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lean%20Practitioner-Certified-107C10?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Six%20Sigma-Certified-107C10?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
