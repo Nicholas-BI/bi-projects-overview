@@ -1,15 +1,21 @@
 <p align="center">
+  <!-- Certifications -->
   <img src="https://img.shields.io/badge/PL--300-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/DP--900-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Lean%20Practitioner-Certified-107C10?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Six%20Sigma-Certified-107C10?style=for-the-badge" />
+
+  <!-- Platform -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
   <br/>
+
+  <!-- Core Tools -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-68B604?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-FFA500?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 # Nicholas’s Power BI Portfolio  
