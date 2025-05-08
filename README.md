@@ -1,5 +1,7 @@
 ![PL-300](https://img.shields.io/badge/PL--300-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DP-900](https://img.shields.io/badge/DP--900-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
+![Lean Practitioner](https://img.shields.io/badge/Lean%20Practitioner-00A86B?style=for-the-badge)
+![Six Sigma Green Belt](https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-0072C6?style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
