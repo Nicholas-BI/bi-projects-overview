@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Certifications -->
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI%20Data%20Analyst-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals-Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lean%20Practitioner-Certified-107C10?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Six%20Sigma-Certified-107C10?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI%20Data%20Analyst%20Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals%20Certified-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lean%20Practitioner%20Certified-107C10?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Six%20Sigma%20Certified-107C10?style=for-the-badge" />
 
   <br/>
 
