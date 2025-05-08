@@ -1,20 +1,16 @@
-![PL-300](https://img.shields.io/badge/PL--300-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
-![DP-900](https://img.shields.io/badge/DP--900-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
-![Lean Practitioner](https://img.shields.io/badge/Lean%20Practitioner-00A86B?style=for-the-badge)
-![Six Sigma Green Belt](https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-0072C6?style=for-the-badge)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-68B604?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PL--300-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DP--900-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lean%20Practitioner-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-0072C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-68B604?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
 
 # Nicholas’s Power BI Portfolio  
 **Driving measurable improvements by combining 13 years of manufacturing expertise with modern analytics**
