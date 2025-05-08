@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PL--300-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/DP--900-Passed-107C10?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lean%20Practitioner-00A86B?style=for-the-badge" />
+  <!-- Certifications -->
+  <img src="https://img.shields.io/badge/PL--300-Certified-107C10?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DP--900-Certified-107C10?style=for-the-badge" />
+
+  <!-- Methodologies -->
+  <img src="https://img.shields.io/badge/Lean%20Practitioner-0072C6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-0072C6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
   <br/>
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-68B604?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+  <!-- Core Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-FFA500?style=for-the-badge" />
+
+  <br/>
+
+  <!-- Platform -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 # Nicholas’s Power BI Portfolio  
